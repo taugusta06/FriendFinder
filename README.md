@@ -1,1 +1,1 @@
-# FriendFinder
+This is an app meant to help pair a user with a "match" a user with a different previous user based on having similar results each recieved from submitting a survey. survey results should be pulled and passed into a loop that compares it with the scores of past users, the closest matching person to the current user should then be displayed as the match. I had a few issues with not knowing how to build a functional modal and also had a few issues with comparing and storing the user data for the match sequence
